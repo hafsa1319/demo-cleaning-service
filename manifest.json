@@ -1,1 +1,1 @@
-{"name":"Cleaning Services","short_name":"Cleaning Services","start_url":"/","display":"standalone","theme_color":"#fde21c","background_color":"#fde21c","icons":[{"src":"assets/icons/512x512.png","sizes":"512x512","type":"image/png"}]}
+{"name":"demo-cleaning-service","short_name":"demo-cleaning-service","start_url":"/","display":"standalone","theme_color":"#6870d1","background_color":"#6870d1","icons":[{"src":"assets/icons/512x512.png","sizes":"512x512","type":"image/png"}]}
